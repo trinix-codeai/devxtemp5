@@ -204,5 +204,6 @@ export default function BookingsWorkspacePage() {
             </div>
 
         </div>
+      
     )
 }
