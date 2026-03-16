@@ -202,8 +202,6 @@ export default function BookingsWorkspacePage() {
                     </CardContent>
                 </Card>
             </div>
-
-        </div>
-      
+        </div> 
     )
 }
