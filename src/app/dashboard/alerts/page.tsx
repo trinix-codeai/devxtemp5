@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Bell, BellRing, AlertTriangle, ShieldCheck, Info, Search, Filter, MoreHorizontal, CheckCircle2 } from "lucide-react"
+import { Bell, BellRing, AlertTriangle, ShieldCheck, Info, Search, Filter, MoreHorizontal, CheckCircle2, Activity } from "lucide-react"
 
 const alerts = [
     { id: "ALT-01", type: "Security", title: "Suspicious Login Attempt", desc: "Detected connection from unknown IP in Singapore.", severity: "High", time: "2 mins ago", status: "New" },
